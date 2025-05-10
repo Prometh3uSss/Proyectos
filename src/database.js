@@ -9,3 +9,5 @@ const pool = createPool({
 });
 
 export default pool;
+
+//CONEXION DE BASE DE DATOS.
